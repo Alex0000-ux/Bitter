@@ -1,0 +1,22 @@
+{
+  "name": "Fate dei Fiori | Boutique Floreale",
+  "short_name": "Fate dei Fiori",
+  "description": "Composizioni uniche, allestimenti per matrimoni e decorazioni d'interni con fiori freschi ogni giorno a Ragusa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F8F6",
+  "theme_color": "#557A46",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
