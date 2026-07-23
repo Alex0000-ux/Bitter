@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 `• Corso: ${corso}`;
 
             // Numero WhatsApp di destinazione
-            const numeroWhatsApp = "393398694862";
+            const numeroWhatsApp = "3896559273";
 
             // Crea l'URL WhatsApp con il messaggio codificato
             const url = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(messaggio)}`;
